@@ -27,17 +27,8 @@ BNRY Token (Binary Coin) is an ERC20-compliant token with additional functionali
 
 3.Compile and test Contracts
    ```bash
+   npx hardhat compile
    npx hardhat test
-
-
-
-
-
-
-
-
-
-
 
 
 
